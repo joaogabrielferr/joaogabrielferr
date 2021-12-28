@@ -1,6 +1,6 @@
 ### Hello there 👋, 
 
-I'm currently pursuing a degree in Computer Science at Instituto Federal do Norte de Minas Gerais. I software development in general, especially web development, and competitive programming.
+I'm currently pursuing a degree in Computer Science at Instituto Federal do Norte de Minas Gerais. I like software development in general, especially web development, and competitive programming.
 
 <br/>
 
