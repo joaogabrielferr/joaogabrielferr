@@ -1,5 +1,6 @@
-### Hello there 👋
+### Hello there 👋, I'm currently pursuing a degree in Computer Science at Instituto Federal do Norte de Minas Gerais. I software development in general, especially web development, and competitive programming.
 
+<br/>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2]
 
