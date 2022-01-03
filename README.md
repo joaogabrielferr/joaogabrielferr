@@ -5,6 +5,8 @@ I'm currently pursuing a degree in Computer Science at Instituto Federal do Nort
 <br/>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2]
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][3]
+
 
 <br/>
 
@@ -50,4 +52,4 @@ Here are some ideas to get you started:
 
 [1]: http://www.github.com/joaogabrielferr
 [2]: https://www.linkedin.com/in/joaogabrielferr
-[3]: https://www.facebook.com/your_contact_info
+[3]: mailto:joaogabrielferr@gmail.com
