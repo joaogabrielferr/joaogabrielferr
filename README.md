@@ -24,7 +24,7 @@ Languages and Tools
 
 <br/>
 
-I'm Currently learning Typescript, Redux, Node.js, Express.js and MongoDB.
+I'm Currently learning Typescript and Redux.
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielferr&hide=jupyter%20notebook&show_icons=true&theme=radical)
