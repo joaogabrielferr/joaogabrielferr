@@ -7,6 +7,7 @@ Hello there, I'm currently pursuing a degree in Computer Science at Instituto Fe
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][3]
 
 <br/>
+
 # Languages and Tools
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -18,7 +19,9 @@ Hello there, I'm currently pursuing a degree in Computer Science at Instituto Fe
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit)
 
 <br/>
+
 I'm Currently learning Typescript and Redux.
+
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielferr&hide=jupyter%20notebook&show_icons=true&theme=radical&layout=compact)
