@@ -3,7 +3,6 @@
 Hello there, I'm currently pursuing a degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais. I like software development in general, especially web development, competitive programming and machine learning.
 
 <br/>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)][1]
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2]
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][3]
@@ -12,7 +11,6 @@ Hello there, I'm currently pursuing a degree in Computer Science at Instituto Fe
 <br/>
 
 # Languages and Tools
-<br/>
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
