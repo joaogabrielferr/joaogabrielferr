@@ -20,7 +20,7 @@ Hey ✌️, I'm currently pursuing a degree in Computer Science at Instituto Fed
 
 <br/>
 
-I'm Currently learning Typescript and Redux.
+I'm Currently learning Typescript.
 
 <br/>
 
