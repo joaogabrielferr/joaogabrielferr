@@ -24,8 +24,6 @@ I'm Currently learning Typescript.
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielferr&hide=jupyter%20notebook&show_icons=true&theme=radical&layout=compact)
-
 
 
 
