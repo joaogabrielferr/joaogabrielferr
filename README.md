@@ -19,7 +19,7 @@ Hey ✌️, I'm currently pursuing a degree in Computer Science at Instituto Fed
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit)
 
 <br/>
-
+Besides these ones I have also used Node.js, GraphQL, Angular, PostgreSQL and other things in some projects.
 I'm Currently learning Typescript.
 
 <br/>
