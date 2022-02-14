@@ -19,9 +19,9 @@ Hey ✌️, I'm currently pursuing a degree in Computer Science at Instituto Fed
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit)
 
 <br/>
-Besides these ones I have also used Node.js, GraphQL, Angular, PostgreSQL and other things in some projects.
+Besides these ones I have also used Node.js, GraphQL, Angular, PostgreSQL and other things in some projects.<br/>
 I'm Currently learning Typescript.
-
+<br/>
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielferr&hide=jupyter%20notebook&show_icons=true&theme=radical&layout=compact)
