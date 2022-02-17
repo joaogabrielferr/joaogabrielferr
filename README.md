@@ -15,7 +15,6 @@ Hey ✌️, I'm currently pursuing a degree in Computer Science at Instituto Fed
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit)
 
 <br/>
 Besides these ones I have also used Node.js, GraphQL, Angular, PostgreSQL and other things in some projects.<br/>
