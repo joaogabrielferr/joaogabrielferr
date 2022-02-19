@@ -5,6 +5,8 @@ You can reach me at [Linkedin](https://www.linkedin.com/in/joaogabrielferr) or v
 <br/>
 I like to use Javascript, React, HTML5, CSS to build my projects, and even tough I'm more inclined toward front-end, I have also used things like Node.js, SQL, PostgreSQL, mySQL, MongoDB and other back-end related stuff. and many other things. I'm currently learning Typescript, Angular and GraphQL.
 <br/>
+🔺 
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielferr&hide=jupyter%20notebook&show_icons=true&theme=radical&layout=compact)
 
