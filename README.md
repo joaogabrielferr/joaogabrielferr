@@ -1,4 +1,4 @@
-# Hey ✌️,
+## Hey ✌️,
 I'm currently pursuing a degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais.
 <br/>
 I like software development in general, especially web development, competitive programming and machine learning.
@@ -6,7 +6,7 @@ I like software development in general, especially web development, competitive 
 You can reach me at [Linkedin](https://www.linkedin.com/in/joaogabrielferr) or via [email](mailto:joaogabrielferr@gmail.com).
 <br/>
 <br/>
-I like to use **Typescript**, **React**, **HTML5** and **CSS** to build my projects, and even tough I'm more inclined towards front-end development, I have also used things like Node.js, SQL, PostgreSQL, mySQL, MongoDB, Java and other back-end related stuff.
+I like to use ***Typescript***, ***React***, ***HTML5*** and ***CSS*** to build my projects, and even tough I'm more inclined towards front-end development, I have also used things like Node.js, SQL, PostgreSQL, mySQL, MongoDB, Java and other back-end related stuff.
 <br/>
 <br/>
 I'm currently learning Angular, GraphQL and Sass. As for the other things, I use C++ for competitive programming and Python for machine learning.
