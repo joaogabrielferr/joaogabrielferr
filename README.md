@@ -1,26 +1,12 @@
 # About
 Hey ✌️, I'm currently pursuing a degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais. I like software development in general, especially web development, competitive programming and machine learning.
 <br/>
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2]
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][3]
-
+You can reach me at [Linkedin](https://www.linkedin.com/in/joaogabrielferr) or via [email](mailto:joaogabrielferr@gmail.com).
 <br/>
-
-# Languages and Tools
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+I like to use Javascript, React, Python, C++, HTML5, CSS, SQL to build my projects, but I have also used Node.js, GraphQL, Angular, PostgreSQL and other things. I'm currently learning Typescript.
 
 <br/>
-Besides these ones I have also used Node.js, GraphQL, Angular, PostgreSQL and other things in some projects.<br/>
-I'm Currently learning Typescript.
-<br/>
-<br/>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielferr&hide=jupyter%20notebook&show_icons=true&theme=radical&layout=compact)
 
