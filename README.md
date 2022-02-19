@@ -3,15 +3,10 @@ I'm currently pursuing a degree in Computer Science at Instituto Federal de Educ
 <br/>
 You can reach me at [Linkedin](https://www.linkedin.com/in/joaogabrielferr) or via [email](mailto:joaogabrielferr@gmail.com).
 <br/>
-I like to use Javascript, React, Python, C++, HTML5, CSS and SQL to build my projects, but I have also used Node.js, GraphQL, Angular, PostgreSQL and many other things. I'm currently learning Typescript.
-
+I like to use Javascript, React, HTML5, CSS to build my projects, and even tough I'm more inclined toward front-end, I have also used things like Node.js, SQL, PostgreSQL, mySQL, MongoDB and other back-end related stuff. and many other things. I'm currently learning Typescript, Angular and GraphQL.
 <br/>
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielferr&hide=jupyter%20notebook&show_icons=true&theme=radical&layout=compact)
-
-
-
 
 
 <!--
