@@ -3,7 +3,9 @@ I'm currently pursuing a degree in Computer Science at Instituto Federal de Educ
 <br/>
 You can reach me at [Linkedin](https://www.linkedin.com/in/joaogabrielferr) or via [email](mailto:joaogabrielferr@gmail.com).
 <br/>
+<br/>
 I like to use Typescript, React, HTML5, CSS to build my projects, and even tough I'm more inclined toward front-end, I have also used things like Node.js, SQL, PostgreSQL, mySQL, MongoDB, Java and other back-end related stuff. and many other things. I'm currently learning Angular, GraphQL and Sass. As for the other things, I use C++ for competitive programming and Python for machine learning.
+<br/>
 <br/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_de_Minas_Gerais.svg" width = "30" height = "30"> 🇲🇬
 <br/>
