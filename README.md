@@ -1,5 +1,5 @@
-# About
-Hey ✌️, I'm currently pursuing a degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais. I like software development in general, especially web development, competitive programming and machine learning.
+# Hey ✌️,
+I'm currently pursuing a degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais. I like software development in general, especially web development, competitive programming and machine learning.
 <br/>
 You can reach me at [Linkedin](https://www.linkedin.com/in/joaogabrielferr) or via [email](mailto:joaogabrielferr@gmail.com).
 <br/>
