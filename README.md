@@ -3,7 +3,7 @@ Hey ✌️, I'm currently pursuing a degree in Computer Science at Instituto Fed
 <br/>
 You can reach me at [Linkedin](https://www.linkedin.com/in/joaogabrielferr) or via [email](mailto:joaogabrielferr@gmail.com).
 <br/>
-I like to use Javascript, React, Python, C++, HTML5, CSS, SQL to build my projects, but I have also used Node.js, GraphQL, Angular, PostgreSQL and other things. I'm currently learning Typescript.
+I like to use Javascript, React, Python, C++, HTML5, CSS and SQL to build my projects, but I have also used Node.js, GraphQL, Angular, PostgreSQL and many other things. I'm currently learning Typescript.
 
 <br/>
 
