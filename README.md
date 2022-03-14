@@ -9,7 +9,7 @@ You can reach me at [Linkedin](https://www.linkedin.com/in/joaogabrielferr) or v
 I like to use ***Typescript***, ***React***, ***HTML5*** and ***CSS*** to build my projects, and even tough I'm more inclined towards front-end development, I have also used things like Node.js, SQL, PostgreSQL, mySQL, MongoDB, Java and other back-end related stuff.
 <br/>
 <br/>
-I'm currently learning Angular, GraphQL and Sass. As for the other things, I use C++ for competitive programming and Python for machine learning.
+I'm currently learning Angular, GraphQL and Sass. As for the other things, I use C++ for competitive programming 😮 and Python for machine learning 😲.
 <br/>
 <br/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_de_Minas_Gerais.svg" width = "30" height = "30"> 🇲🇬
