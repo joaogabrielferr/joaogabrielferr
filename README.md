@@ -1,4 +1,4 @@
- Hey ✌️, I'm currently pursuing a degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais.
+ Hey ✌️, I'm currently a front-end intern, and pursuing a degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais.
 <br/>
 I like software development in general, especially web development, competitive programming and machine learning.
 <br/>
