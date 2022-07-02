@@ -1,6 +1,6 @@
- Hey ✌️, I'm currently a front-end intern, and pursuing a degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais.
-I like software development in general, especially web development, competitive programming and machine learning.
-You can reach me at [Linkedin](https://www.linkedin.com/in/joaogabrielferr) or via [email](mailto:joaogabrielferr@gmail.com).
+ Hey, I'm currently a front-end intern, and pursuing a degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais.
+I like software development in general, especially web development and game development.
+You can reach me at [Linkedin](https://www.linkedin.com/in/joaogabrielferr).
 <br/>
 I like to use ***Typescript***, ***React***, ***HTML5*** and ***CSS*** to build my projects, and I've also been using ***Angular*** heavily in my internship. Even though I'm more inclined towards front-end development, I have also used things like Node.js, Java, SQL, PostgreSQL, mySQL, MongoDB and other back-end related stuff.
 <br/>
