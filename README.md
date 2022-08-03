@@ -1,6 +1,4 @@
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_de_Minas_Gerais.svg" width = "30" height = "30"> 🇲🇬
-<br/>
 <img src ="https://c.tenor.com/D55R-SuFKGgAAAAC/kids-goku-peace.gif">
 <br/>
 
