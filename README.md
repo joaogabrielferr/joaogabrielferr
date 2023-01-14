@@ -2,7 +2,7 @@
 <img src ="https://c.tenor.com/D55R-SuFKGgAAAAC/kids-goku-peace.gif">
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielferr&hide=jupyter%20notebook&show_icons=true&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaogabrielferr&hide=jupyter%20notebook&show_icons=true&theme=radical&layout=compact)
 
 
 [1]: https://joaogabrielferr.github.io
