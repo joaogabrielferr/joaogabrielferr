@@ -1,5 +1,5 @@
 
-Software developer
+All programming languages are cool
 <br/>
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaogabrielferr&hide=jupyter%20notebook&show_icons=true&theme=radical&layout=compact)
