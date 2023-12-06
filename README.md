@@ -2,9 +2,9 @@
 
 <br/>
 Hi there 👋,<br/>
-I'm currently working as a frontend dev, but I'm also into backend development, I'm currently using Node.js, but I also Know Java and Spring boot, and I'm currently learning Go.
+I'm currently working as a frontend dev, but I'm also into backend development. I'm currently using Node.js, but I also know Java and Spring boot, and I'm currently learning Go.
 <br/>
-My current stack for building anything related to the web is currently Angular (and Nx) or React, Node.js, Docker, Redis, Typeorm, Postgres and friends.
+My current stack for building anything related to the web is Angular (and Nx) or React, Node.js, Docker, Redis, Typeorm, Postgres and friends.
 <br/>
 <br/>
 
