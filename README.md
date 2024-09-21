@@ -2,7 +2,7 @@
 
 <br/>
 Hi there 👋,<br/>
-I'm currently working as a frontend dev, but I'm also into backend development. I'm currently using Java and Spring Boot.
+I'm currently working as a frontend dev, but I'm also like backend development. I'm currently using Java and Spring Boot in the backend, and Angular in the frontend.
 <br/>
 I also like to solve competitive programming problems sporadically using C++.
 <br/>
