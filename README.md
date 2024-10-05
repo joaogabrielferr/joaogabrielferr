@@ -2,7 +2,7 @@
 
 <br/>
 Hi there 👋,<br/>
-I'm currently working as a frontend dev, but I'm also like backend development. I'm currently using Java and Spring Boot in the backend, and Angular in the frontend.
+Currently working as a frontend dev, learning backend development with Java and Spring. 
 <br/>
 I also like to solve competitive programming problems sporadically using C++.
 <br/>
@@ -10,7 +10,3 @@ I also like to solve competitive programming problems sporadically using C++.
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaogabrielferr&hide=jupyter%20notebook&show_icons=true&theme=radical&layout=compact)
 
-
-[1]: https://joaogabrielferr.github.io
-[2]: https://www.linkedin.com/in/joaogabrielferr
-[3]: mailto:joaogabrielferr@gmail.com
