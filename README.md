@@ -1,10 +1,9 @@
 
 
 <br/>
-Hi there 👋,<br/>
-Currently working as a frontend dev, learning backend development with Java and Spring. 
+Software developer, skilled with Java and Typescript.
 <br/>
-I also like to solve competitive programming problems sporadically using C++.
+I also like to solve coding problems using C++.
 <br/>
 <br/>
 
